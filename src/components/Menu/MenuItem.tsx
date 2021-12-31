@@ -130,7 +130,7 @@ const MenuItem = ({
         >
           <Text
             selectable={false}
-            numberOfLines={1}
+            numberOfLines={99}
             style={[styles.title, { color: titleColor }, titleStyle]}
           >
             {title}
